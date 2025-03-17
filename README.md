@@ -1,6 +1,6 @@
 # Projeto Amigo Secreto
 
-Este projeto é uma aplicação simples em JavaScript que permite criar uma lista de amigos e sortear aleatoriamente um "amigo secreto". Além disso, utiliza o recurso de narração do ResponsiveVoice para ler mensagens exibidas na tela.
+Este projeto é uma aplicação simples em JavaScript que permite criar uma lista de amigos e sortear aleatoriamente um "amigo secreto".
 
 ## Funcionalidades
 
