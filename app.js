@@ -23,7 +23,7 @@ function exibirTextoNaTela(tag, texto) {
   responsiveVoice.speak(texto, "Brazilian Portuguese Female", { rate: 1.1 });
 }
 
-//Essa função atualiza a lista de amigos exibida na tela
+//Essa função atualiza a lista de amigos exibida na tela.
 function atualizarListaAmigos() {
   let lista = document.getElementById("listaAmigos");
   lista.innerHTML = "";
@@ -32,7 +32,7 @@ function atualizarListaAmigos() {
   }
 }
 
-// Função para sortear um amigo secreto
+// Função para sortear um amigo secreto.
 function sortearAmigo() {
   if (amigos.length === 0) {
     alert("Nenhum amigo para sortear.");
